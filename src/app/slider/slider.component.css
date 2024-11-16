@@ -1,0 +1,11 @@
+.slider {
+    width: 100%;
+    max-width: 640px;
+    margin: auto;
+  }
+  
+  .slider img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
